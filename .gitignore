@@ -1,0 +1,13 @@
+# Archivos y carpetas de JetBrains
+.idea/
+*.iml
+
+# Configuración del entorno
+__pycache__/
+.env
+venv/
+*.db
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
