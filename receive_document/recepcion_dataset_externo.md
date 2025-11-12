@@ -20,8 +20,8 @@ Este documento registra el proceso de recepción, validación y preparación del
 | columna_2 | número | Sin inconsistencias |
 | columna_3 | fecha | Formato DD/MM/YYYY |
 
-**Total de registros:** XXXX  
-**Columnas con nulos:** X  
+**Total de registros:** 10000  
+**Columnas con nulos:** 08  
 **Duplicados detectados:** X%  
 **Codificación:** UTF-8  
 
